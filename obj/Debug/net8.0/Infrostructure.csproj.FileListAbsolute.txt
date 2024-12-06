@@ -1,0 +1,12 @@
+C:\Users\ASUS\Desktop\StudentDb\Infrostructure\bin\Debug\net8.0\Infrostructure.deps.json
+C:\Users\ASUS\Desktop\StudentDb\Infrostructure\bin\Debug\net8.0\Infrostructure.dll
+C:\Users\ASUS\Desktop\StudentDb\Infrostructure\bin\Debug\net8.0\Infrostructure.pdb
+C:\Users\ASUS\Desktop\StudentDb\Infrostructure\obj\Debug\net8.0\Infrostructure.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\StudentDb\Infrostructure\obj\Debug\net8.0\Infrostructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\StudentDb\Infrostructure\obj\Debug\net8.0\Infrostructure.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\StudentDb\Infrostructure\obj\Debug\net8.0\Infrostructure.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\StudentDb\Infrostructure\obj\Debug\net8.0\Infrostructure.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\StudentDb\Infrostructure\obj\Debug\net8.0\Infrostructure.dll
+C:\Users\ASUS\Desktop\StudentDb\Infrostructure\obj\Debug\net8.0\refint\Infrostructure.dll
+C:\Users\ASUS\Desktop\StudentDb\Infrostructure\obj\Debug\net8.0\Infrostructure.pdb
+C:\Users\ASUS\Desktop\StudentDb\Infrostructure\obj\Debug\net8.0\ref\Infrostructure.dll
